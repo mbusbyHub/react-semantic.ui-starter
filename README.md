@@ -4,7 +4,7 @@
 
 ![](https://github.com/Metnew/react-semantic.ui-starter/blob/for-gh/screen.gif)
 
-### Demo: [reatty.now.sh](https://reatty.now.sh/auth)
+### Demo: ~~[reatty.now.sh](https://reatty.now.sh/auth)~~ Temporarily unavailable:(
 <div>
 <a href="https://app.codesponsor.io/link/cFthevq5iGu9WkCHS316WqmS/Metnew/react-semantic.ui-starter" rel="nofollow"><img src="https://app.codesponsor.io/embed/cFthevq5iGu9WkCHS316WqmS/Metnew/react-semantic.ui-starter.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
 
@@ -151,7 +151,7 @@ ENV vars are **very important** for configuration.
 
 #### How it works?
 
-##### **[Most commonly asked questions are here.](/docs/faq.md)**
+##### **[Most commonly asked questions are here.](/docs/FAQ.md)**
 
 Some guides are already finished, some aren't. I update branch very often, so improved docs and explanations will be very soon.
 
